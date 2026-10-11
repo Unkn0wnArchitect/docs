@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "ThogSploit",
   "colors": {
-    "primary": "#000000",
+    "primary": "#FFFFFF",
     "light": "#000000",
-    "dark": "#000000"
+    "dark": "#FFFFFF"
   },
   "appearance": {
     "default": "dark",
