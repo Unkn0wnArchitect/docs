@@ -2,3 +2,9 @@
   margin-top: 32px !important;
   padding-top: 16px !important;
 }
+
+#sidebar a[aria-current="page"] {
+    color: #FFFFFF !important;
+    font-weight: 600 !important;
+    -webkit-font-smoothing: auto;
+}
