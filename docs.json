@@ -7,6 +7,10 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+  "appearance": {
+    "default": "dark",
+    "strict": true
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "pages": [
@@ -32,17 +36,7 @@
     "dark": "/logo/thoglogo.png"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
-    }
+    "links": []
   },
   "contextual": {
     "options": [
