@@ -5,6 +5,6 @@
 
 #sidebar a[aria-current="page"] {
     color: #E5E5E5 !important;
-    font-weight: 400 !important;
+    font-weight: 200 !important;
     -webkit-font-smoothing: antialiased;
 }
