@@ -28,8 +28,8 @@
     }
   },
   "logo": {
-    "light": "/logo/thoglogo.pngpng",
-    "dark": "/logo/thoglogo.pnpng"
+    "light": "/logo/thoglogo.png",
+    "dark": "/logo/thoglogo.png"
   },
   "navbar": {
     "links": [
