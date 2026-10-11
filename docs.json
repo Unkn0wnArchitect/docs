@@ -4,6 +4,7 @@
   "name": "ThogSploit",
   "colors": {
     "primary": "#000000",
+    "light": "#000000",
     "dark": "#000000"
   },
   "appearance": {
