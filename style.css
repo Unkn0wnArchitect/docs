@@ -4,7 +4,7 @@
 }
 
 #sidebar a[aria-current="page"] {
-    color: #FFFFFF !important;
-    font-weight: 600 !important;
-    -webkit-font-smoothing: auto;
+    color: #E5E5E5 !important;
+    font-weight: 400 !important;
+    -webkit-font-smoothing: antialiased;
 }
